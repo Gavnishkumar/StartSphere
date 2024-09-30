@@ -115,7 +115,7 @@ This is a comprehensive web application designed to foster a startup ecosystem, 
 
 ### **Here are some screenshots of the application:**
 
-  1. ![User Authentication (Sign Up / Log In Page)](./screenshots/Auth.png)
+  1. ![User Authentication (Sign Up / Log In Page)](./Screenshots/Auth.png)
 
   2. **User Profile (Create/Update Profile)**
    
