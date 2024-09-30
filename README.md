@@ -114,20 +114,22 @@ This is a comprehensive web application designed to foster a startup ecosystem, 
 ---
 
 ### **Here are some screenshots of the application:**
-
+   
   1. ![User Authentication (Sign Up / Log In Page)](./Screenshots/Auth.png)
 
-  2. **User Profile (Create/Update Profile)**
+  2. ![User Profile (Create/Update Profile)](./Screenshots/Profile.png)
+  3. ![Feeds (Create/Update/Likes/comments)](./Screenshots/Feeds.png)
    
-  3. **Startup Listings and Filters**
+  4. ![Startup Listings and Filters](./Screenshots/StartUps.png)[](./Screenshots/startup_filters.png)
    
-  4. **Feed with Comments and Likes**
+  5. ![My friend list and suggestions](./Screenshots/MyFriendList.png)[](./Screenshots/FriendSuggestions.png)
    
-  5. **Real-time Chat**
+  6. ![Real-time Chat](./Screenshots/Chat.png)
    
-  6. **Event Organizing Page**
+  7. ![Event Organizing Page](./Screenshots/Events.png)
    
-  7. **Article and Resource Sharing Page**
+  8. ![Article and Resource Sharing Page](./Screenshots/Acticles.png)
+  9. ![Create Articles and Resources](./Screenshots/CreateArticles.png)
 ---
 ### **Contributing**
 **Contributions are welcome! To contribute to this project, follow these steps:**
